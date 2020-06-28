@@ -18,3 +18,4 @@ override fun dispose() {
     mapView.onResume() <<--- 具体可以查看百度地图API文档的 生命周期
 }
 ```
+经过折腾许久终于基本实现了！现在将代码分享出来。对于初学者可以参考。
